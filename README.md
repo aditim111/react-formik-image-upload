@@ -1,0 +1,4 @@
+- React.js, TS form using Formik.
+- Image upload field to upload Image.
+- Yup for validation.
+- Material UI
